@@ -1,5 +1,8 @@
 Principles of Game Design - idea 2: real-time card game
 ===
+github: 
+https://github.com/Ang-Ar/Flash-team-Fighting
+
 Switched to one of my other ideas after missing milestone 2 on my first idea & realising it was not feeasible.
 
 Current status: 
